@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ToastAndSnackbar</string>
+    <string name="time_reamining">Time Reamining: %d</string>
 </resources>

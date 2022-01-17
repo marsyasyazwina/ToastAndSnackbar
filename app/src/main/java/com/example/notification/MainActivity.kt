@@ -2,7 +2,7 @@ package com.example.notification
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.toastandsnackbar.databinding.ActivityMainBinding
+import com.example.notification.databinding.ActivityMainBinding
 
 
 class MainActivity : AppCompatActivity() {
@@ -15,12 +15,5 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
 
-        binding.btnSnackbar.setOnClickListener {
-
-        }
-
-        binding.btnToast.setOnClickListener {
-
-        }
     }
 }
