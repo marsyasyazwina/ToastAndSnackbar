@@ -1,4 +1,4 @@
-package com.example.toastandsnackbar
+package com.example.notification
 
 import org.junit.Test
 
